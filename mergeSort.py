@@ -37,3 +37,7 @@ def mergeSort(x):
 if __name__ == '__main__':
         List = [3,4,2,6,5,7,1,9]
         print('Sorted List: ',mergeSort(List))
+        
+        
+        
+        
